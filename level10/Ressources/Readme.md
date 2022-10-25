@@ -84,3 +84,5 @@ while True:
 flag10@SnowCrash:~$ getflag
 Check flag.Here is your token : feulo4b72j7edeahuete3no7c
 
+
+https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
